@@ -103,8 +103,8 @@ fontchoice: archivonarrow
 #colorchoice: teal # Bright teal with bright orange-yellow accents
 #colorchoice: marigold # Near-black with marigold yellow
 #colorchoice: red # Black, crimson and grey
-#colorchoice: lavenderred # Purple-grey with orange-red
-colorchoice: dusk # Dusky purple and olive green
+colorchoice: lavenderred # Purple-grey with orange-red
+#colorchoice: dusk # Dusky purple and olive green
 #colorchoice: whitewithaccent # White with an accent color (see below)
 
 colorchoice: whitewithaccent
