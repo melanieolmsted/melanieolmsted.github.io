@@ -1,15 +1,15 @@
 ---
 layout: pilgrimage
-title: "Travel a Forested Path"
-categories: [ East Asia, 9th century ]
-mapurl: "https://www.google.com/maps/place/39°09'57.2%22N+86°31'32.4%22W/@39.1658751,-86.5256635,17z/data=!3m1!4b1!4m4!3m3!8m2!3d39.1658751!4d-86.5256635"
-clue: "Find me at the bench in the center of Dunn's Woods."
+title: "Canterbury Cathedral Ampullae"
+categories: [ ]
+mapurl: ""
+clue: ""
 shortdesc: >
-    Rain or shine, members of our community follow these tree-lined labyrinthine paths with the presence of the first holy person to walk these routes guiding them. Whether they observe the nature of beauty in isolation or seek the spiritual company of fellow travelers, each pilgrim crosses a boundary from the bustle of the brick-lined paths of the outside world into a quiet, contemplative forested preserve.
-lat: "39.1658751"
+    The shrine of Saint Thomas Becket produced a unique type of souvenir, a small flask called an ampulla. These flasks held 'Canterbury Water,' water mixed with a drop of Becket's blood. Sometimes these souvenirs contained inscriptions.
+lat: ""
 long: "-86.5256635"
 medievalparalleltitle: "Shikoku Henro"
-medievalmapurl: "https://www.google.com/maps/place/Ryozenji+Temple/@34.1596727,134.4999519,17z/data=!4m14!1m7!3m6!1s0x355371e674b682e3:0xb3d020fcc0b36321!2sRyozenji+Temple!8m2!3d34.1596727!4d134.5025268!16s%2Fm%2F0gmbx8q!3m5!1s0x355371e674b682e3:0xb3d020fcc0b36321!8m2!3d34.1596727!4d134.5025268!16s%2Fm%2F0gmbx8q"
+medievalmapurl: "https://www.google.com/maps/place/Canterbury+Cathedral/@51.2797005,1.0824251,19.5z/data=!4m6!3m5!1s0x47deca4aa51185d9:0xd5cea13e62d94916!8m2!3d51.2797971!4d1.0827998!16zL20vMGptdjM?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
 medievalparallel: |
     Buddhist priest Kūkai was born Saeki no Mao (Mao, of the Saeki family) on the island of Shikoku in Japan. His early studies led to a life of ascetic and meditative practices as a Buddhist and an administrator in 9th century Japan. His writings on Buddhism in the Japanese tradition led to his other name, Kōbō Daishi, or "Great Teacher".
 
@@ -24,11 +24,9 @@ medievalparallel: |
 learnmore: |
     - Take a course on medieval Japan with Professor Morten Oxenboell (East Asian Languages and Cultures)
     - Find out more from Professor Heather Blair (Religious Studies), whose current project *Reverently I Pray* looks at patronage networks and prayer in medieval Japan
-medievallat: 34.1596727
-medievallong: 134.5003381
+medievallat: 51.2797005
+medievallong: 1.0824251
 entryauthor:
-  name: "Morten Oxenboell"
-  affiliation: "East Asian Languages and Cultures, Indiana University"
 img:
   file: ShikokuHenro_Kukai.jpg
   credit: |
