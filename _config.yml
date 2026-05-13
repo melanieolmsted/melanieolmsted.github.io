@@ -104,7 +104,7 @@ fontchoice: archivonarrow
 #colorchoice: marigold # Near-black with marigold yellow
 #colorchoice: red # Black, crimson and grey
 #colorchoice: lavenderred # Purple-grey with orange-red
-#colorchoice: dusk # Dusky purple and olive green
+colorchoice: dusk # Dusky purple and olive green
 #colorchoice: whitewithaccent # White with an accent color (see below)
 
 colorchoice: whitewithaccent
@@ -117,12 +117,12 @@ colorchoice: whitewithaccent
 #accentchoice: accent-red # Bright red
 #accentchoice: accent-pink # Deep pink
 #accentchoice: accent-orange # Tangerine Orange
-accentchoice: accent-brown # Warm brown
+#accentchoice: accent-brown # Warm brown
 #accentchoice: accent-green # Kelly green
 #accentchoice: accent-navy # Navy blue
 #accentchoice: accent-blue # Medium blue
 #accentchoice: accent-bluegrey # Blue Grey
-#accentchoice: accent-purple # Grape purple
+accentchoice: accent-purple # Grape purple
 #accentchoice: accent-grey # Mid Grey
 
 ##############################################
